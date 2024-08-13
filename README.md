@@ -25,4 +25,4 @@
 - Uses output file and generates object code (in objectcode file).
 
 ## Note:
-- ** is used for tab space in source program (input1 file)
+- ** is used for tab space in source program (input1 file).
