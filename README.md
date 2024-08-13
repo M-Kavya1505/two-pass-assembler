@@ -22,7 +22,7 @@
 4. Output contains source program with location counter. Output acts as an intermediate file.
 
 ### sp_pass_2:
-1. Uses output file and generates object code (in objectcode file).
+- Uses output file and generates object code (in objectcode file).
 
 ## Note:
 - ** is used for tab space in source program (input1 file)
